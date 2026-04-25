@@ -1,5 +1,4 @@
 # trackerlist-april-2026
-trackerlist april 2026
 http://211.75.205.189:80/announce
 http://tracker.zhuqiy.com:80/announce
 http://tr.nyacat.pw:80/announce
